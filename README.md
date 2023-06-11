@@ -44,7 +44,7 @@ I'm Kelechi, a Project Manager with Finance background & love for anything Tech.
 </p>
 
 
-## Latest Blog Posts📩
+## Latest Blog Posts Coming Soon📩
 <!-- BLOG-POST-LIST:START -->
 - [Don’t Stop Until You’re Proud](https://predigt.dev/iwd-dont-stop-until-youre-proud)
 - [Predictive Model: My First Tech Task](https://predigt.dev/predictive-model-my-first-tech-task)
