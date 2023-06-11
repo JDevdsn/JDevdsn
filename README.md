@@ -5,20 +5,20 @@
 # Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Nice to Meet You.:blush:
 
 <img src="" alt="banner that says Kelechi Precious Nwachukwu - code newbie always. content curator. contributing for good alongside an oil paint illustration of Kelechi"> 
-I'm Kelechi, a Project Manager with Finance background & love for anything Tech. Python is my first language, exploring the front & back-end of the web, can't be caught in the middle.:wink: Open-source documentation & translation contributor, big team player. Igbo native, cartoon freak, chocolate, good food, and karaoke.
+I'm Jordan, a Web Developer, Digital Creative with a love for anything Tech. JavaScript is my first language, currently exploring the front & back-end of the web, I love food, Music, and would like to Travel more often. Till then I'll be sipping Tea and playing Lofi.
 
 
-## More About Me:woman:
+## MOOD:Motivated 
 
 :purple_heart: Kind people are my kinda people
 
-:100: Radical for Jesus
+:100: God is Good 
 
-:star: Uniquely naive tho independent
+:🚀: 3 years since my career change!
 
-:apple: Beginner mindset (**open to learning**)
+:apple: Adaptable mindset (**open to learning**)
 
-:sparkles: Child at heart (**i see the world as magical**)
+:sparkles: Child at heart (**Take me back to Disney World**)
 
 
 >*People think focus means saying yes to the thing you've got to focus on. It means saying no to the hundred other good ideas that there are. You have to pick carefully.*
