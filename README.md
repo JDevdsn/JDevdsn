@@ -4,7 +4,8 @@
 
 # Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Nice to Meet You.:blush:
 
-[](https://github.com/JDevdsn/JDevdsn/blob/master/a-happy.png?raw=true)
+![hey](https://github.com/JDevdsn/JDevdsn/blob/master/a-happy.png)
+  
 I'm Jordan, a Web Developer, Digital Creative with a love for anything Tech. JavaScript is my first language, currently exploring the front & back-end of the web, I love food, Music, and would like to Travel more often. Till then I'll be sipping Tea and playing Lofi.
 
 
