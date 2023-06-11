@@ -39,7 +39,6 @@ I'm Kelechi, a Project Manager with Finance background & love for anything Tech.
   </a>
 
 
-- Lazy curating pluckyspiration on: <a href="https://www.youtube.com/channel/UC2-U73E-uyf_lNCDO0yENlQ?view_as=subscriber">YouTube</a> or <a href="https://predigt.dev/">Predigt</a>
 
 </p>
 
