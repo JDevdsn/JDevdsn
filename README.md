@@ -21,22 +21,8 @@ I'm Kelechi, a Project Manager with Finance background & love for anything Tech.
 :sparkles: Child at heart (**i see the world as magical**)
 
 
->*I love to race in where angels fear to tread. Committed to face fears & overcome them. In order to escape any feeling of being stuck, i often travel.*
+>*People think focus means saying yes to the thing you've got to focus on. It means saying no to the hundred other good ideas that there are. You have to pick carefully.*
 
-
-## Find me around the WWW🌎
-
-<p align="center">
-  
-  
-- Contributing on: <a href="https://github.com/PluckyPreciou?tab=followers">
-    <img src="https://img.shields.io/github/followers/PluckyPrecious?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" />
-  </a>
-
-
-- Trying to be up to good on: <a href="http://twitter.com/PluckyPrecious">
-    <img src="https://img.shields.io/twitter/follow/PluckyPrecious?label=Twitter&logo=twitter&style=for-the-badge" />
-  </a>
 
 
 
