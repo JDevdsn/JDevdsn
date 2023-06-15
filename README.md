@@ -60,4 +60,7 @@ I'm Jordan, a Web Developer, Digital Creative with a love for anything Tech. Jav
   />
 </picture>
 
-
+![Sebi Tribute](https://github.com/JDevdsn/JDevdsn/blob/master/Herbal_Health.png?raw=true)
+![Lofi Artist](https://github.com/JDevdsn/JDevdsn/blob/master/OceanWaves.png?raw=true)
+![Tech-Blog](https://github.com/JDevdsn/JDevdsn/blob/master/Tech-Blog.png?raw=true)
+![eCom-Builders](https://github.com/JDevdsn/JDevdsn/blob/master/eCom.png?raw=true)
