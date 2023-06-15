@@ -8,8 +8,7 @@
   
 I'm Jordan, a Web Developer, Digital Creative with a love for anything Tech. JavaScript is my first language, currently exploring the front & back-end of the web, I love food, Music, and would like to Travel more often. Till then I'll be sipping Tea and playing Lofi.
 
-![Sebi Tribute](https://github.com/JDevdsn/JDevdsn/blob/master/Herbal_Health.png?raw=true)
-![Lofi Artist](https://github.com/JDevdsn/JDevdsn/blob/master/OceanWaves.png?raw=true)
+
 ![Tech-Blog](https://github.com/JDevdsn/JDevdsn/blob/master/Tech-Blog.png?raw=true)
 ![eCom-Builders](https://github.com/JDevdsn/JDevdsn/blob/master/eCom.png?raw=true)
 
