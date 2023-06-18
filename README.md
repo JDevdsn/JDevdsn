@@ -15,7 +15,7 @@ I'm Jordan, a Web Developer, Digital Creative with a love for anything Tech. Jav
 ![eCom-Builders](https://github.com/JDevdsn/JDevdsn/blob/master/eCom.png?raw=true)
 
 # This is a custom card I developed for a realestate project, used to display property listings. Can be used on all CMS platforms, is Compatible with Jquery, made for Wordpress & ACF Advanced Custom Fields ! https://codepen.io/yurigami-the-encoder/pen/NWExOBo)
-![eCom-Builders](https://codepen.io/yurigami-the-encoder/pen/NWExOBo)
+![Property](https://github.com/JDevdsn/JDevdsn/blob/master/Property.png?raw=true)
 
 ## MOOD:Motivated 
 
