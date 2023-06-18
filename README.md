@@ -8,13 +8,13 @@
   
 I'm Jordan, a Web Developer, Digital Creative with a love for anything Tech. JavaScript is my first language, currently exploring the front & back-end of the web.
 
-# Here is a Blog project Built in ReactJS, See the articles I am currently reading! https://metanews.blog/
+# Here is a Blog project Built in ReactJS, See the articles I am currently reading. https://metanews.blog/
 ![Tech-Blog](https://github.com/JDevdsn/JDevdsn/blob/master/Tech-Blog.png?raw=true)
 
-# I plan to start creating more since some of you have reached out, here is another project for showcase ! https://kodey.shop/
+# I plan to start creating more since some of you have reached out, here is another project for showcase. https://kodey.shop/
 ![eCom-Builders](https://github.com/JDevdsn/JDevdsn/blob/master/eCom.png?raw=true)
 
-# This is a custom card I developed for a realestate project, used to display property listings. Can be used on all CMS platforms, is Compatible with Jquery, made for Wordpress & ACF Advanced Custom Fields ! https://codepen.io/yurigami-the-encoder/pen/NWExOBo)
+# This is a custom card I developed for a realestate project, used to display property listings and book consultations. Can be used on all CMS platforms, is Compatible with JQuery, made for Wordpress & ACF, Advanced Custom Fields https://codepen.io/yurigami-the-encoder/pen/NWExOBo)
 ![Property](https://github.com/JDevdsn/JDevdsn/blob/master/Property.png?raw=true)
 
 ## MOOD:Motivated 
